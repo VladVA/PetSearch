@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "836734547661",
+    "firebase_url": "https://petsearch-fdc97.firebaseio.com",
+    "project_id": "petsearch-fdc97",
+    "storage_bucket": "petsearch-fdc97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836734547661:android:b7fb01c80945574c",
+        "android_client_info": {
+          "package_name": "com.pisici.caini.petsearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836734547661-v75gsd9ci736dri8qicimq0ho1b4ai3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0zeSYHIYUG1snl_sxcg-wIaImsOFpVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

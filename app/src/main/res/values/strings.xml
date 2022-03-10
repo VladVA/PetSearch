@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PetSearch</string>
+    <string name="signup">Sign up</string>
+    <string name="email">Email</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="birthday">Birthday</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="upload_photo">Upload a photo</string>
+    <string name="loginBtn">Login</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="specie" color="@color/white">Select species</string>
+    <string name="addpet">Add pet</string>
+</resources>
